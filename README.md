@@ -1,4 +1,9 @@
-# foobarbaz
+<h2 align="center"><img align="center" src="https://github.com/vrmiguel/vrmiguel/assets/36349314/5170cc9d-e6bf-4e47-a7c0-e02c8778b8ec" height="70px" />  guana </h2>
+
+## Project structure
+
+`guana-grpc-server`
+`guana-grpc-types`
 
 ## Installation
 
